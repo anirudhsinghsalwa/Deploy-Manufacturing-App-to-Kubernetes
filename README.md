@@ -1,4 +1,4 @@
-# Deploy Manufacturing App to Kubernetes
+# CI/CD for Ruby on Rails Legal App
 
 A complete DevOps implementation for containerizing and deploying a Multi-Agent Manufacturing System onto AWS EKS using Docker, Kubernetes, and GitHub Actions CI/CD with zero-downtime rolling updates.
 
